@@ -25,8 +25,8 @@
  */
 
 
-/**
- * Product list toolbar
+/** 
+ * Product list toolbar - 893893147
  *
  * @category    Mage
  * @package     Mage_Catalog
